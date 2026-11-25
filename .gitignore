@@ -44,3 +44,5 @@ logs/
 scripts/output/
 tab-credentials*.xml
 real-betting-runner*.json
+# LTX-2.5 model files (too big for GitHub)
+tools/ltx/models/
